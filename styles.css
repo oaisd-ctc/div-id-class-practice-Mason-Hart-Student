@@ -1,0 +1,36 @@
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+}
+#red {
+    background-color: red;
+}
+#navy {
+    background-color: navy;
+}
+#blue {
+    background-color: blue;
+}
+#yellow {
+    background-color: yellow;
+}
+#magenta {
+    background-color: magenta;
+}
+#purple {
+    background-color: purple;
+}
+#green {
+    background-color: green;
+}
+#black {
+    background-color: black;
+}
+#orange {
+    background-color: orange;
+}
+#pink {
+    background-color: pink;
+}
